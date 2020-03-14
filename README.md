@@ -98,6 +98,7 @@ Wie viel zacken der Stern haben soll kann im Script verändert werden, indem man
 <img align="right" src="Image/Tree.gif" width="250" height="250">
 Ein Fraktal, ähnlich wie der Pythagoras Baum, nur hier in etwas abgeänderter Form.
 </br>
+
 Der Pythagoras Baum wird dadurch erzeugt, dass auf einem Viereck ein rechtwinkliges Dreieck aufgesetzt wird, wobei die Hypotenuse des Rechtecks, die Kante des Vierecks ist. Auf den Katheten wird dann wieder ein Viereck erzeugt und darauf wieder ein rechtwinkliges Dreieck. Dieser Vorgang kann unendlich oft wiederholt werden. 
 
 Das ganze wird in diesem [Bild](https://upload.wikimedia.org/wikipedia/commons/b/b9/Pythagoras_tree_construct_5of5.png) nochmal veranschaulicht.
