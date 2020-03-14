@@ -7,8 +7,10 @@ Mehr zu Fraktalen finden Sie [hier](https://de.wikipedia.org/wiki/Fraktal).
 <img align="right"  src="Image/Abstract-Art.gif" width="250" height="250">
 Ein einfaches Programm welches die Turtle hin- und herlaufen lässt. Dies geschieht in einem Bereich von -200 < x < 200 und -200 < y < 200.
 </br>
+
 Erreicht die Turtle die Grenzwerte so wird sie mit einem zufälligen Wert gedreht und geht 3 Schritte vorwärts. Dadurch kann es dazu kommen, dass die Turtle im Grenzwert stecken bleibt und sich dort aufhängt, wodurch kleine schwarze Punkte im Grenzwert entstehen können, wie im Bild erkennbar sind.
 </br>
+
 Die Werte können selbstverständlich im Script geändert werden.
 </br>
 </br>
