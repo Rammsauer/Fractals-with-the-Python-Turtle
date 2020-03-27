@@ -67,6 +67,17 @@ Man nehme ein Gleichschenkliges und Gleichseitiges Dreieck und erzeuge damit in 
 Die Iterationstiefe kann im Script manuell festgelegt werden, wenn man die Variable l verändert. Es ist allerdings zu beachten, dass bei einem Wert größer 600 und einer Windowsize von x = 300 und y = 300 die Turtle nicht mehr erkennbar ist. </br>
 Dies geschieht deshalb, weil die Turtle nicht in die tiefe iteriert sondern nach oben </br> und somit das Dreieck immer größer wird.
 
+## Snowflake
+<img align="right" src="Image/1.gif" width="250" height="250">
+
+Die Kochkurve durch die Python Turtle dargestellt.
+</br>
+
+Die Kochkurve ist ein recht einfaches Fraktal welches sich auch leicht erklären lässt. Man nimmt eine Strecke x und teilt diese in drei gleiche Stücke. In dem zweiten Teil der Strecke wird ein gleichschenkliges Dreieck aufgesetzt, wobei die Seiten des Dreiecks genau so lang sind wie die zwei restlichen Drittel. Dies wird in dieser [Grafik](https://upload.wikimedia.org/wikipedia/commons/6/6f/How_to_make_Koch_curve.svg) nochmal veranschaulicht. Diesen Prozess kann man dann mehrmals wiederholen. Durch diese recht einfachen Schritten entsteht die Kochkurve. 
+</br>
+</br>
+</br>
+
 ## Square Spiral
 <img align="right" src="Image/Square-Spiral.gif" width="250" height="250">
 
