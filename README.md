@@ -15,6 +15,19 @@ Die Werte können selbstverständlich im Script geändert werden.
 </br>
 </br>
 
+## Circle
+<img align="right" src="Image/circle.gif" width="250" height="250">
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
 ## Fibonacci
 <img align="right" src="Image/Fibonacci-Turtle.gif" width="250" height="250">
 
@@ -68,12 +81,26 @@ Die Iterationstiefe kann im Script manuell festgelegt werden, wenn man die Varia
 Dies geschieht deshalb, weil die Turtle nicht in die tiefe iteriert sondern nach oben </br> und somit das Dreieck immer größer wird.
 
 ## Snowflake
-<img align="right" src="Image/1.gif" width="250" height="250">
+<img align="right" src="Image/snowflake.gif" width="250" height="250">
 
 Die Kochkurve durch die Python Turtle dargestellt.
 </br>
 
 Die Kochkurve ist ein recht einfaches Fraktal welches sich auch leicht erklären lässt. Man nimmt eine Strecke x und teilt diese in drei gleiche Stücke. In dem zweiten Teil der Strecke wird ein gleichschenkliges Dreieck aufgesetzt, wobei die Seiten des Dreiecks genau so lang sind wie die zwei restlichen Drittel. Dies wird in dieser [Grafik](https://upload.wikimedia.org/wikipedia/commons/6/6f/How_to_make_Koch_curve.svg) nochmal veranschaulicht. Diesen Prozess kann man dann mehrmals wiederholen. Durch diese recht einfachen Schritten entsteht die Kochkurve. 
+</br>
+</br>
+</br>
+
+
+## Spiral
+<img align="right" src="Image/spiral.gif" width="250" height="250">
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 </br>
 </br>
 </br>
